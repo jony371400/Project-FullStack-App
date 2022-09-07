@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "969zyK9bUiK7JxQq/mmcPK0VoKKErHXmBjoQd8LDn1yn3eqNEdNoFv3vci2S09CtaFhoTABV47tz9SQnHYYIdQ==",
+  "dgSpecHash": "jv5SFvIPFk0l9D1RGew6AEcqKbcdgVV3ctlkWJXKZGhBSm0YVQVASfaNUwS2C9iGgdffvT7QgKGdofrQEWNK/Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\11107647\\Desktop\\Code\\Project-FullStack-App\\Project1\\Backend\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\11107647\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\11107647\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.28\\microsoft.aspnetcore.jsonpatch.3.1.28.nupkg.sha512",
+    "C:\\Users\\11107647\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.28\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.28.nupkg.sha512",
+    "C:\\Users\\11107647\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\11107647\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\11107647\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
   ],
   "logs": []
 }
