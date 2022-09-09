@@ -18,7 +18,7 @@
 Use mytestdb;
 
 -- Insert into Department values(1,'IT');
--- Insert into Department values(2,'support');
+-- Insert into Department values(2,'Support');
 select * from Department;
 
 -- Insert into Employee values(1 , 'Johnny' , 'IT' , GETDATE() , 'anonymous.png');

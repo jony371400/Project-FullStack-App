@@ -9,7 +9,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Serialization;
-//using Microsoft.OpenApi.Models;
+using Microsoft.Extensions.FileProviders;
+using System.IO;
 
 namespace Backend
 {
@@ -22,7 +23,6 @@ namespace Backend
 
         public IConfiguration Configuration { get; }
 
-        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             // Add CORS
@@ -32,15 +32,15 @@ namespace Backend
             });
 
             // JSON Serializer
-            services.AddControllersWithViews()
-               .AddNewtonsoftJson(options =>
-               options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
-                );
+            services.AddControllersWithViews().AddNewtonsoftJson( options => 
+                options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+            ).AddNewtonsoftJson( options => 
+                options.SerializerSettings.ContractResolver = new DefaultContractResolver()
+            );
 
             services.AddControllers();
         }
 
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             // Enable CORS
@@ -51,8 +51,6 @@ namespace Backend
                 app.UseDeveloperExceptionPage();
             }
 
-
-
             app.UseRouting();
 
             app.UseAuthorization();
@@ -60,6 +58,11 @@ namespace Backend
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+            });
+
+            app.UseStaticFiles(new StaticFileOptions
+            {
+                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "Photos")), RequestPath ="/Photos"
             });
         }
     }
