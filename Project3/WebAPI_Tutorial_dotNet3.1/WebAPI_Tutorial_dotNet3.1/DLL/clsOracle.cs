@@ -17,7 +17,6 @@ namespace WebAPI_Tutorial_dotNet3._1.DLL
 
         public clsOracle()
         {
-
         }
 
         public void Open(string strConn)
@@ -36,6 +35,15 @@ namespace WebAPI_Tutorial_dotNet3._1.DLL
 
         public void Close()
         {
+            try
+            {
+                mConnection.Close();
+                Console.WriteLine("DB Connect Close");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("DB Connect Close Fail : " + ex.Message.ToString());
+            }
 
         }
 
