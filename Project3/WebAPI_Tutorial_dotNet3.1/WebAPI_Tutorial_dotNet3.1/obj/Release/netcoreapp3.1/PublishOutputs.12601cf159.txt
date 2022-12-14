@@ -1,0 +1,16 @@
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI_Tutorial_dotNet3.1.exe
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI_Tutorial_dotNet3.1.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI_Tutorial_dotNet3.1.deps.json
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI_Tutorial_dotNet3.1.runtimeconfig.json
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\WebAPI_Tutorial_dotNet3.1.pdb
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Newtonsoft.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
