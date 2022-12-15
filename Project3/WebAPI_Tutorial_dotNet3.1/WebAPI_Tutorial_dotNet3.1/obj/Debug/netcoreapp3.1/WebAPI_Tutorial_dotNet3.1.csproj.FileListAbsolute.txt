@@ -61,6 +61,12 @@ C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_
 C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.dll
 C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.pdb
 C:\Users\11107647\Desktop\Code\dotNet\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.genruntimeconfig.cache
+C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.AssemblyInfoInputs.cache
+C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.AssemblyInfo.cs
+C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.csproj.CoreCompileInputs.cache
+C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\bin\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.exe
@@ -110,12 +116,6 @@ C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_do
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
-C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.AssemblyInfoInputs.cache
-C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.AssemblyInfo.cs
-C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.csproj.CoreCompileInputs.cache
-C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\WebAPI_Tutorial_dotNet3.1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_Tutorial_dotNet3.1.StaticWebAssets.Manifest.cache
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI_Tutorial_dotNet3.1.StaticWebAssets.xml
 C:\Users\11107647\Desktop\Code\Project-FullStack-App\Project3\WebAPI_Tutorial_dotNet3.1\WebAPI_Tutorial_dotNet3.1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI_Tutorial_dotNet3.1.styles.css

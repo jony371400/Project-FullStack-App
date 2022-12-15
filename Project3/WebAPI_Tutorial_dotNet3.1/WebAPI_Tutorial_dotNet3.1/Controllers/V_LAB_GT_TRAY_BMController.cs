@@ -74,9 +74,16 @@ namespace WebAPI_Tutorial_dotNet3._1.Controllers
         }
 
         #region POST api/<V_LAB_GT_TRAY_BMController>
+        //[HttpPost]
+        //public string Post(string value)
+        //{
+        //    return "Success";
+        //}
+
         [HttpPost]
-        public void Post([FromBody] string value)
+        public string Post([FromBody] string value)
         {
+            return "Success";
         }
         #endregion
 
