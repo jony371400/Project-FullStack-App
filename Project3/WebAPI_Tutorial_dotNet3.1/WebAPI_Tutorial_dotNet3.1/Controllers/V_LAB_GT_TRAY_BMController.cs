@@ -83,6 +83,7 @@ namespace WebAPI_Tutorial_dotNet3._1.Controllers
         [HttpPost]
         public string Post([FromBody] string value)
         {
+           string headers =  HttpContext.Request.Headers["HTTP_X_FORWARDED_FOR"];
             return "Success";
         }
         #endregion
